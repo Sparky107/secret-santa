@@ -1,9 +1,6 @@
 from tkinter import *
 import tkinter.font as font
 from names import names_
-import random
-
-import objgraph
 
 class SecretSanta(Frame):
     def __init__(self, master):
