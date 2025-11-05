@@ -3,8 +3,6 @@ import tkinter.font as font
 from names import names_
 import random
 
-
-
 class SecretSanta(Frame):
     def __init__(self, master):
         super(SecretSanta, self).__init__(master)
